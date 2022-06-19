@@ -1,0 +1,364 @@
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.exe
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.deps.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.runtimeconfig.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.pdb
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfo.cs
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\scopedcss\bundle\Shop.API.styles.css
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CopyComplete
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\refint\Shop.API.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.pdb
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.genruntimeconfig.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\obj\Debug\net6.0\ref\Shop.API.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.Development.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.exe
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.deps.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.runtimeconfig.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Humanizer.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.AssemblyReference.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfoInputs.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfo.cs
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CoreCompileInputs.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cs
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.build.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.development.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\scopedcss\bundle\Shop.API.styles.css
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CopyComplete
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\ref\Shop.API.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.genruntimeconfig.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\AutoMapper.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\refint\Shop.API.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.exe
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.deps.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.runtimeconfig.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfo.cs
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\scopedcss\bundle\Shop.API.styles.css
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CopyComplete
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\refint\Shop.API.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.genruntimeconfig.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\ref\Shop.API.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.exe
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.deps.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.runtimeconfig.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.AssemblyReference.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfoInputs.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfo.cs
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CoreCompileInputs.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\scopedcss\bundle\Shop.API.styles.css
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CopyComplete
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\refint\Shop.API.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.genruntimeconfig.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\obj\Debug\net6.0\ref\Shop.API.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.staticwebassets.runtime.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\appsettings.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.staticwebassets.runtime.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.exe
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.deps.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.runtimeconfig.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.API.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\bin\Debug\net6.0\Shop.Infrastructure.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.AssemblyInfo.cs
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\scopedcss\bundle\Shop.API.styles.css
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.csproj.CopyComplete
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\refint\Shop.API.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\Shop.API.genruntimeconfig.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.API\obj\Debug\net6.0\ref\Shop.API.dll

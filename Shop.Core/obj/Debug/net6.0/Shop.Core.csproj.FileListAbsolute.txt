@@ -1,0 +1,68 @@
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\proj\OnlineShop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.runtimeconfig.json
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.genruntimeconfig.cache
+E:\projects\work\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.runtimeconfig.json
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.genruntimeconfig.cache
+C:\Users\bartar\Desktop\New folder\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.runtimeconfig.json
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.genruntimeconfig.cache
+C:\Users\scorleon\Desktop\SaberiArch\OnlineShop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.deps.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.runtimeconfig.json
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\bin\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.AssemblyInfo.cs
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\refint\Shop.Core.dll
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.pdb
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\Shop.Core.genruntimeconfig.cache
+C:\Users\bartar\Desktop\OnlineShop\Shop.Core\obj\Debug\net6.0\ref\Shop.Core.dll
