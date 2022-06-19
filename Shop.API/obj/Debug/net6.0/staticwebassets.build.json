@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oZPAqd6B6V06a8yL4RDQg2v91w0W12D0gpPkBowDpC4=",
+  "Hash": "LPdMbha0QFoLxZRJquxY1kge/Ng4wOfTtHms/gfw4mo=",
   "Source": "Shop.API",
   "BasePath": "_content/Shop.API",
   "Mode": "Default",
@@ -15,23 +15,5 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [
-    {
-      "Identity": "C:\\Users\\bartar\\Desktop\\OnlineShop\\Shop.API\\wwwroot\\products\\pride\\1637675696_پراید-780x470.jpg.jpg",
-      "SourceId": "Shop.API",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\bartar\\Desktop\\OnlineShop\\Shop.API\\wwwroot\\",
-      "BasePath": "_content/Shop.API",
-      "RelativePath": "products/pride/1637675696_پراید-780x470.jpg.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\pride\\1637675696_پراید-780x470.jpg.jpg"
-    }
-  ]
+  "Assets": []
 }

@@ -13,6 +13,7 @@ namespace Shop.Infrastructure
             Services.AddSingleton<EncriptionUtility>();
             Services.AddScoped<IProductRepository, ProductRepository>();
             Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            Services.AddSingleton<FileUtility>();
         }
     }
 }

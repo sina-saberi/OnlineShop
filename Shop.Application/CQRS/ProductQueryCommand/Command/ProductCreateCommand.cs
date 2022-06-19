@@ -1,5 +1,7 @@
 using AutoMapper;
 using MediatR;
+using Shop.Application.Interfaces;
+using Shop.Application.Services;
 using Shop.Core.Entites;
 using Shop.Core.IRepositories;
 using Shop.Infrastructure.Dto;
@@ -15,33 +17,20 @@ namespace Shop.Application.CQRS.ProductQueryCommand.Command
 
     public class ProductCreateCommandHandler : IRequestHandler<ProductCreateCommand, Guid>
     {
-        private readonly IProductRepository repository;
         private readonly IMapper mapper;
-        private readonly IUnitOfWork unitOfWork;
+        private readonly IProductService service;
 
         public ProductCreateCommandHandler(
-            IProductRepository repository,
             IMapper mapper,
-            IUnitOfWork unitOfWork)
+            IProductService service
+            )
         {
-            this.repository = repository;
             this.mapper = mapper;
-            this.unitOfWork = unitOfWork;
+            this.service = service;
         }
         public async Task<Guid> Handle(ProductCreateCommand request, CancellationToken cancellationToken)
         {
-            var NewProductEntity = mapper.Map<Product>(request.Data);
-            if (request.Data.file != null)
-            {
-                var file = request.Data.file.SaveAndGetFileModel(FileUtility.PROJECT_ROOT + @$"\{request.Data.ProductName}");
-                NewProductEntity.Thumbnail = file.File;
-                NewProductEntity.ThumbnailFileName = file.FileName;
-                NewProductEntity.ThumbnailFileSize = file.FileSize;
-                NewProductEntity.ThumbnailFileExtension = file.FileExtension;
-            }
-            var entity = await repository.Add(NewProductEntity);
-            await unitOfWork.SaveCahngesAsync();
-            return entity.Id;
+            return (await service.Add(request.Data)).Id!.Value;
         }
     }
 }
