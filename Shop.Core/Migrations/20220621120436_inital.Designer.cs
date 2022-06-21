@@ -12,8 +12,8 @@ using Shop.Core;
 namespace Shop.Core.Migrations
 {
     [DbContext(typeof(OnlineShopDbContext))]
-    [Migration("20220619181647_init")]
-    partial class init
+    [Migration("20220621120436_inital")]
+    partial class inital
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

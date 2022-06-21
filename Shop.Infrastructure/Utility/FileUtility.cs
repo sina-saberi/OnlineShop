@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Options;
 using Shop.Infrastructure.Model;
 using System;
 using System.Collections.Generic;
@@ -10,6 +11,25 @@ namespace Shop.Infrastructure.Utility
 {
     public class FileUtility
     {
+        private readonly Configs options;
+        public FileUtility(IOptions<Configs> options)
+        {
+            this.options = options.Value;
+        }
+        public string SaveFileInFolder<IEntity>(IFormFile file, IEntity entity)
+        {
+            var applicationExecutionRootPath = options.CurrentDirectory;
+            var mediaRootPath = options.MediaPath;
+            var folderRootPath = nameof(entity);
+            var newFileName = $"{DateTime.Now.Ticks}{GetfileExtension(file.FileName)}";
+            return "";
+        }
+
+        public void CheckAndCreateDirectory(string applicationExecutionRootPath, string mediaRootPath,string folderRootPath)
+        {
+            //if(!Directory.Exists())
+
+        }
         public byte[] ConvertToByteArray(IFormFile file)
         {
             using (var ms = new MemoryStream())
