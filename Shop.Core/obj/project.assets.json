@@ -1860,19 +1860,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\scorleon\\.nuget\\packages\\": {}
+    "C:\\Users\\bartar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scorleon\\Desktop\\OnlineShop\\Shop.Core\\Shop.Core.csproj",
+      "projectUniqueName": "C:\\Users\\bartar\\Desktop\\OnlineShop\\Shop.Core\\Shop.Core.csproj",
       "projectName": "Shop.Core",
-      "projectPath": "C:\\Users\\scorleon\\Desktop\\OnlineShop\\Shop.Core\\Shop.Core.csproj",
-      "packagesPath": "C:\\Users\\scorleon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scorleon\\Desktop\\OnlineShop\\Shop.Core\\obj\\",
+      "projectPath": "C:\\Users\\bartar\\Desktop\\OnlineShop\\Shop.Core\\Shop.Core.csproj",
+      "packagesPath": "C:\\Users\\bartar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bartar\\Desktop\\OnlineShop\\Shop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\scorleon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bartar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1928,7 +1928,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

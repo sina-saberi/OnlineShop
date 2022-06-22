@@ -33,7 +33,7 @@ namespace Shop.Application.Services
             var product = mapper.Map<Product>(dto);
             product.Thumbnail = fileUtility.ConvertToByteArray(dto.file);
             product.ThumbnailFileExtension = fileUtility.GetfileExtension(dto.file.FileName);
-            product.ThumbnailFileName = dto.file.FileName;
+            product.ThumbnailFileName = fileUtility.SaveFileInFolder(dto.file, product);
             product.ThumbnailFileSize = dto.file.Length;
 
             await repository.Add(product);
@@ -49,7 +49,17 @@ namespace Shop.Application.Services
 
         public async Task<ProductDto> GetById(Guid Id)
         {
-            return mapper.Map<ProductDto>(await repository.Get(Id));
+            //TODO:use auto mapper
+            var entity = await repository.Get(Id);
+            return new ProductDto()
+            {
+                Id = entity.Id,
+                FileBase64 = fileUtility.ConvertToBase64(entity.Thumbnail),
+                FilePath = fileUtility.GetFileUrl(entity.ThumbnailFileName, entity),
+                Price = entity.Price,
+                ProductName = entity.ProductName,
+                PriceWithComma = entity.Price.ToString("#,##0")
+            };
         }
     }
 }

@@ -12,5 +12,7 @@ namespace Shop.Infrastructure.Dto
 
         public string? PriceWithComma { get; set; }
         public IFormFile file { get; set; }
+        public string FileBase64 { get; set; }
+        public string FilePath { get; set; }
     }
 }
