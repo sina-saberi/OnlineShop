@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BJcjK0wnrMPJzlBexQPzn1HcZCT90ApLHwHwaPsX5E0=",
+  "Hash": "LPdMbha0QFoLxZRJquxY1kge/Ng4wOfTtHms/gfw4mo=",
   "Source": "Shop.API",
   "BasePath": "_content/Shop.API",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Shop.API\\wwwroot",
       "Source": "Shop.API",
-      "ContentRoot": "C:\\Users\\scorleon\\Desktop\\OnlineShop\\Shop.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\bartar\\Desktop\\OnlineShop\\Shop.API\\wwwroot\\",
       "BasePath": "_content/Shop.API",
       "Pattern": "**"
     }

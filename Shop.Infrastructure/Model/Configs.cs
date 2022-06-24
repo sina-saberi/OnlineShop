@@ -6,6 +6,8 @@
         public int TokenTimeout { get; set; }
         public int RefreshTokenTimeout { get; set; }
         public string MediaPath { get; set; } = "";
-        public string CurrentDirectory { get; set; } = Directory.GetCurrentDirectory();
+        public string FileEncriptionKey { set; get; } = "";
+        public string? CurrentDirectory { get; set; }
+
     }
 }

@@ -33,7 +33,7 @@ namespace Shop.Application.Services
             var product = mapper.Map<Product>(dto);
             product.Thumbnail = fileUtility.ConvertToByteArray(dto.file);
             product.ThumbnailFileExtension = fileUtility.GetfileExtension(dto.file.FileName);
-            product.ThumbnailFileName = fileUtility.SaveFileInFolder(dto.file, product);
+            product.ThumbnailFileName = fileUtility.SaveFileInFolder<Product>(dto.file);
             product.ThumbnailFileSize = dto.file.Length;
 
             await repository.Add(product);
@@ -55,7 +55,7 @@ namespace Shop.Application.Services
             {
                 Id = entity.Id,
                 FileBase64 = fileUtility.ConvertToBase64(entity.Thumbnail),
-                FilePath = fileUtility.GetFileUrl(entity.ThumbnailFileName, entity),
+                FilePath = fileUtility.GetFileUrl<Product>(entity.ThumbnailFileName),
                 Price = entity.Price,
                 ProductName = entity.ProductName,
                 PriceWithComma = entity.Price.ToString("#,##0")
