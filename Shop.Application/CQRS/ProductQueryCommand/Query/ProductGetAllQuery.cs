@@ -3,15 +3,18 @@ using MediatR;
 using Shop.Application.Interfaces;
 using Shop.Core.IRepositories;
 using Shop.Infrastructure.Dto;
+using Shop.Infrastructure.Model;
 
 namespace Shop.Application.CQRS.ProductQueryCommand.Query
 {
-    public class ProductGetAllQuery : IRequest<ICollection<ProductDto>>
+    public class ProductGetAllQuery : IRequest<ShopActionResult<IEnumerable<ProductDto>>>
     {
-
+        public int page { get; set; } = 1;
+        public int size { get; set; } = 10;
     }
 
-    public class ProductGetAllQueryHandler : IRequestHandler<ProductGetAllQuery, ICollection<ProductDto>>
+    public class ProductGetAllQueryHandler : 
+        IRequestHandler<ProductGetAllQuery, ShopActionResult<IEnumerable<ProductDto>>>
     {
         private readonly IProductService service;
         private readonly IMapper mapper;
@@ -21,9 +24,10 @@ namespace Shop.Application.CQRS.ProductQueryCommand.Query
             this.service = service;
             this.mapper = mapper;
         }
-        public async Task<ICollection<ProductDto>> Handle(ProductGetAllQuery request, CancellationToken cancellationToken)
+        public async Task<ShopActionResult<IEnumerable<ProductDto>>> Handle(ProductGetAllQuery request, CancellationToken cancellationToken)
         {
-            return (await service.Getall()).ToList();
+            var result = await service.Getall(request.page, request.size);
+            return result;
         }
     }
 }

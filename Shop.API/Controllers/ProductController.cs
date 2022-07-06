@@ -15,6 +15,7 @@ public class ProductController : BaseController
     }
 
     [HttpGet("Get")]
+    [AccessControll("product-get")]
     public async Task<IActionResult> Get([FromQuery] ProductGetByIdQuery input)
     {
         var result = await mediator.Send(input);
@@ -22,9 +23,10 @@ public class ProductController : BaseController
     }
 
     [HttpGet("GetAll")]
-    public async Task<IActionResult> GetAll()
+    [AccessControll("product-getAll")]
+    public async Task<IActionResult> GetAll([FromQuery] ProductGetAllQuery input)
     {
-        var result = await mediator.Send(new ProductGetAllQuery());
+        var result = await mediator.Send(input);
         return Ok(result);
     }
 

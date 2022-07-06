@@ -24,9 +24,9 @@ namespace Shop.Infrastructure.Repositories
             return await onlineShopDbContex.Products.FirstOrDefaultAsync(m => m.Id == Id);
         }
 
-        public async Task<IEnumerable<Product>> GetAll()
+        public IQueryable<Product> GetAll()
         {
-            return await onlineShopDbContex.Products.ToListAsync();
+            return onlineShopDbContex.Products.AsQueryable().AsNoTracking();
         }
     }
 }
